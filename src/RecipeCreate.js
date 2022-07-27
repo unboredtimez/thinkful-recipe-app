@@ -59,6 +59,7 @@ function RecipeCreate({ createRecipe }) {
                 id="photo"
                 name="photo"
                 placeholder="URL"
+                type="url"
                 required={true}
                 onChange={handleChange}
                 value={formData.photo}

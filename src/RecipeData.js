@@ -24,16 +24,6 @@ const RecipeData = [
     preparation:
       "1. Remove the flesh of the avocados. 2. Mash the avocados with the back of a fork. 3. Add the other ingredients and incorporate evenly. 4. Add salt to taste.",
   },
-  {
-    name: "Guacamole",
-    cuisine: "Mexican",
-    photo:
-      "https://www.foodista.com/sites/default/files/styles/recype/public/017.jpg",
-    ingredients:
-      "3 ripe avocados. ¾ cup finely chopped Roma tomato. 2 serrano chiles very finely chopped (seeded and deveined). 3 heaping tablespoons of finely chopped onion. 3 tablespoons of minced cilantro. Salt to taste",
-    preparation:
-      "1. Remove the flesh of the avocados. 2. Mash the avocados with the back of a fork. 3. Add the other ingredients and incorporate evenly. 4. Add salt to taste.",
-  },
 ];
 
 export default RecipeData;
